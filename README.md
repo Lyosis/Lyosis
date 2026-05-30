@@ -1,4 +1,4 @@
-# Hey, I'm Lyosis 👋
+# Hey, I'm Wilfrid 👋
 
 I'm an independent developer based in France, building macOS and iOS apps on my own time — learning as I go and enjoying every step of it.
 
