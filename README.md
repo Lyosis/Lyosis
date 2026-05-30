@@ -1,5 +1,7 @@
 # Hey, I'm Wilfrid 👋
 
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/lyosis)
+
 I'm an independent developer based in France, building macOS and iOS apps on my own time — learning as I go and enjoying every step of it.
 
 I started coding relatively recently, driven by curiosity and the need to scratch my own itches. My projects are small, focused, and built with care — from network security tools to iOS utilities.
