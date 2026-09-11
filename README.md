@@ -8,7 +8,7 @@ I started coding relatively recently, driven by curiosity and the need to scratc
 
 **What I'm working on:**
 - 🛡️ **NetGuard** — a macOS network scanner with a clean visual interface
-- 🚀 **EVE Scan** — an iOS companion app for EVE Online
+- 🚀 **EVE Scan** — an iOS companion app for EVE Online https://apps.apple.com/app/eve-scan/id6771863550
 - ⚡ **EnergyHome** — an iOS energy consumption tracker powered by Apple Intelligence for smart recommendations and analysis
 - 📁 **QuickRename** — a macOS app for folder monitoring and on-the-fly file renaming
 
