@@ -10,7 +10,8 @@ I started coding relatively recently, driven by curiosity and the need to scratc
 - 🛡️ **NetGuard** — a macOS network scanner with a clean visual interface
 - 🚀 **EVE Scan** — an iOS companion app for EVE Online https://apps.apple.com/app/eve-scan/id6771863550
 - ⚡ **EnergyHome** — an iOS energy consumption tracker powered by Apple Intelligence for smart recommendations and analysis
-- 📁 **QuickRename** — a macOS app for folder monitoring and on-the-fly file renaming
+- 📁 **QuickRename** — a macOS app for folder monitoring and on-the-fly file renaming https://apps.apple.com/fr/app/quickrename/id6773828266?mt=12
+QuickRename
 
 I'm still finding my feet as a developer, so expect rough edges alongside genuine effort. Feedback and kind words are always welcome!
 
